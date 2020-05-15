@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "http://kockatykalendar.sk/event.schema.json",
   "title": "Event",
-  "description": "An event in the calendar.",
+  "description": "An event in the calendar",
   "type": "object",
   "properties": {
     "name": {
@@ -85,10 +85,10 @@
       "type": "object",
       "properties": {
         "remind_days_before": {
-          "description": "How many days before should we notify people.",
+          "description": "How many days before should we notify people",
           "type": ["number", "array"],
           "items": {
-            "type": "array"
+            "type": "number"
           }
         }
       },
