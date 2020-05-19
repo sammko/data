@@ -27,7 +27,8 @@ organizers:
 link: https://junior.naboj.org/
 
 # Miesto, alebo zoznam miest, kde sa akcia kona
-place: Bratislava
+place:
+  - Bratislava
 
 # Informacie o sutaziacich.
 contestants:
@@ -39,5 +40,6 @@ contestants:
 
 # Udaje k notifikaciam. (optional)
 notifications:
-  # Pocet dni (alebo zoznam poctu dni), kedy sa ma posielat mail zaujemcom.
-  remind_days_before: 5
+  # Zoznam poctu dni, kedy sa ma posielat mail zaujemcom.
+  remind_days_before: 
+    - 5
