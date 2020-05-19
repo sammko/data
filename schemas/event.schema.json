@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://kockatykalendar.sk/v0.0.1/event.schema.json",
+  "title": "Event",
+  "description": "An event in the calendar",
+  "type": "object",
+  "properties": {
+    "name": {
+      "description": "Name of the event",
+      "type": "string"
+    },
+    "sciences": {
+      "description": "Event sciences",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["mat", "fyz", "inf", "other"]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "type": {
+      "description": "Event type",
+      "type": "string",
+      "enum": ["sutaz", "seminar", "sustredenie", "vikendovka", "tabor", "olympiada", "prednasky"]
+    },
+    "date": {
+      "description": "Date information",
+      "type": "object",
+      "properties": {
+        "start": {
+          "description": "Event date or start date if more days",
+          "type": "string",
+          "format": "date"
+        },
+        "end": {
+          "description": "End date",
+          "type": "string",
+          "format": "date"
+        },
+        "text": {
+          "description": "Event date for user",
+          "type": "string"
+        }
+      },
+      "required": ["start"]
+    },
+    "organizers": {
+      "description": "Organizer or list of organizers",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "link": {
+      "description": "Link to more information",
+      "type": "string",
+      "format": "uri"
+    },
+    "places": {
+      "description": "Place where the event is organized",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "contestants": {
+      "description": "Contestant information",
+      "type": "object",
+      "properties": {
+        "min": {
+          "description": "Min class to attend",
+          "type": "string",
+          "pattern": "^(zs[1-9]|ss[1-4])$"
+        },
+        "max": {
+          "description": "Max class to attend",
+          "type": "string",
+          "pattern": "^(zs[1-9]|ss[1-4])$"
+        }
+      },
+      "required": ["min"]
+    },
+    "notifications": {
+      "description": "Notification settings",
+      "type": "object",
+      "properties": {
+        "remind_days_before": {
+          "description": "How many days before should we notify people",
+          "type": "array",
+          "items": {
+            "type": "number"
+          }
+        }
+      },
+      "required": ["remind_days_before"]
+    }
+  },
+  "required": [ "name", "sciences", "type", "date", "organizers", "place", "contestants" ]
+}
+  
