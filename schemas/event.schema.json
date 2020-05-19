@@ -57,7 +57,7 @@
       "type": "string",
       "format": "uri"
     },
-    "place": {
+    "places": {
       "description": "Place where the event is organized",
       "type": "array",
       "items": {
