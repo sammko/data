@@ -1,0 +1,16 @@
+name: Kockatý víkend
+type: vikendovka
+sciences:
+  - mat
+  - fyz
+date:
+  start: "2020-04-17"
+  end: "2020-04-19"
+contestants:
+  min: zs5
+  max: zs9
+places:
+  - ŠvP po celom Slovensku
+organizers:
+  - p-mat
+link: https://p-mat.sk/aktivity/kockaty
