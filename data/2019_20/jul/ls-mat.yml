@@ -1,0 +1,15 @@
+name: Letná škola matematiky
+type: prednasky
+sciences:
+  - mat
+date:
+  start: "2020-07-12"
+  end: "2020-07-26"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - Bratislava
+organizers:
+  - trojsten
+link: https://leto.trojsten.sk/

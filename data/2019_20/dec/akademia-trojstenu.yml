@@ -1,0 +1,16 @@
+name: Akadémia Trojstenu
+type: prednasky
+sciences:
+  - mat
+  - fyz
+  - inf
+date:
+  start: "2019-12-13"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - Bratislava
+organizers:
+  - trojsten
+link: https://akademia.trojsten.sk/
