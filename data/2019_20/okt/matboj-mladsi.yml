@@ -1,0 +1,15 @@
+name: MATBOJ - mladší
+type: sutaz
+sciences:
+  - mat
+date:
+  start: "2019-10-24"
+contestants:
+  min: zs5
+  max: zs7
+places:
+  - Bratislava
+organizers:
+  - p-mat
+  - riesky
+link: https://p-mat.sk/aktivity/jesenny-matboj

@@ -1,0 +1,14 @@
+name: Lomihlav
+type: sutaz
+sciences:
+  - mat
+date:
+  start: "2019-11-29"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - Košice
+organizers:
+  - strom
+link: https://matik.strom.sk/sk/lomihlav/

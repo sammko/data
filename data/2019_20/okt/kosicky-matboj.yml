@@ -1,0 +1,14 @@
+name: Košický Matboj
+type: sutaz
+sciences:
+  - mat
+date:
+  start: "2019-10-25"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - Košice
+organizers:
+  - strom
+link: https://seminar.strom.sk/sk/matboj
