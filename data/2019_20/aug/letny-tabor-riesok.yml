@@ -1,0 +1,15 @@
+name: Letný tábor Riešok
+type: tabor
+sciences:
+  - mat
+date:
+  start: "2020-08-22"
+  end: "2020-08-31"
+contestants:
+  min: zs5
+  max: ss1
+places:
+  - TBD
+organizers:
+  - riesky
+link: https://riesky.sk/
