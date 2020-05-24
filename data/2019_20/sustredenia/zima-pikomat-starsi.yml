@@ -1,0 +1,15 @@
+name: Zimné sústredenie Pikomatu starší
+type: sustredenie
+sciences:
+  - mat
+date:
+  start: "2020-02-02"
+  end: "2020-02-08"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - TBD
+organizers:
+  - p-mat
+link: https://www.pikomat.sk/sustredenia.html
