@@ -1,0 +1,15 @@
+name: Letné sústredenie Pikofyzu
+type: sustredenie
+sciences:
+  - fyz
+date:
+  start: "2020-06-15"
+  end: "2020-06-21"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - TBD
+organizers:
+  - p-mat
+link: https://www.pikofyz.sk/sustredenia.html
