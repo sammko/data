@@ -1,0 +1,16 @@
+name: 1. séria Riešok
+type: seminar
+sciences:
+  - mat
+date:
+  start: "2019-09-01"
+  end: "2019-10-07"
+  text: "september-október"
+contestants:
+  min: zs5
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - riesky
+link: https://riesky.sk/

@@ -1,0 +1,16 @@
+name: 3. séria KMS
+type: seminar
+sciences:
+  - mat
+date:
+  start: "2019-11-01"
+  end: "2019-11-25"
+  text: "november"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - celé Slovensko
+organizers:
+  - trojsten
+link: https://kms.sk/

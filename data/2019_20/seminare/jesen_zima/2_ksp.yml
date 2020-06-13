@@ -1,0 +1,16 @@
+name: 2. séria KSP
+type: seminar
+sciences:
+  - inf
+date:
+  start: "2019-12-01"
+  end: "2020-01-13"
+  text: "december-január"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - celé Slovensko
+organizers:
+  - trojsten
+link: https://ksp.sk/

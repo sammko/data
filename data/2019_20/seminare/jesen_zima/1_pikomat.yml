@@ -1,0 +1,16 @@
+name: 1. séria Pikomatu
+type: seminar
+sciences:
+  - mat
+date:
+  start: "2019-09-01"
+  end: "2019-09-30"
+  text: "september"
+contestants:
+  min: zs5
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - p-mat
+link: https://pikomat.sk/

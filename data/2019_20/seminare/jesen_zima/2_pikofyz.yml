@@ -1,0 +1,16 @@
+name: 2. séria Pikofyzu
+type: seminar
+sciences:
+  - fyz
+date:
+  start: "2019-10-01"
+  end: "2019-10-28"
+  text: "október"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - p-mat
+link: https://pikofyz.sk/

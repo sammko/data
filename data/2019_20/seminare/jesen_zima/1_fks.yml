@@ -1,0 +1,16 @@
+name: 1. séria FKS
+type: seminar
+sciences:
+  - fyz
+date:
+  start: "2019-10-01"
+  end: "2019-11-04"
+  text: "október-november"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - celé Slovensko
+organizers:
+  - trojsten
+link: https://fks.sk/
