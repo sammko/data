@@ -1,0 +1,15 @@
+name: Letné sústredenie Riešok
+type: sustredenie
+sciences:
+  - mat
+date:
+  start: "2020-06-15"
+  end: "2020-06-20"
+contestants:
+  min: zs5
+  max: zs9
+places:
+  - TBD
+organizers:
+  - riesky
+link: https://riesky.sk/
