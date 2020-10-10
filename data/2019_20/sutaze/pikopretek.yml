@@ -1,0 +1,16 @@
+name: Pikopretek
+type: sutaz
+sciences:
+  - mat
+date:
+  start: "2020-04-01"
+  text: "apríl/máj"
+contestants:
+  min: zs5
+  max: zs9
+places:
+  - Bratislava
+organizers:
+  - p-mat
+  - riesky
+link: https://p-mat.sk/aktivity/pikopretek/

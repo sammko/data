@@ -1,0 +1,16 @@
+name: 3. séria UFO
+type: seminar
+sciences:
+  - fyz
+date:
+  start: "2019-12-01"
+  end: "2020-01-13"
+  text: "december-január"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - trojsten
+link: https://ufo.fks.sk/

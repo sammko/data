@@ -1,0 +1,14 @@
+name: Fyzikálny NÁBOJ
+type: sutaz
+sciences:
+  - fyz
+date:
+  start: "2019-11-08"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - Bratislava
+organizers:
+  - trojsten
+link: https://physics.naboj.org/

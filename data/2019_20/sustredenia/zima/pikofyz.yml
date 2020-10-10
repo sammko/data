@@ -1,0 +1,15 @@
+name: Zimné sústredenie Pikofyzu
+type: sustredenie
+sciences:
+  - fyz
+date:
+  start: "2020-02-08"
+  end: "2020-02-14"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - TBD
+organizers:
+  - p-mat
+link: https://www.pikofyz.sk/sustredenia.html

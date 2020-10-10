@@ -1,0 +1,17 @@
+name: Klub Trojstenu
+type: vikendovka
+sciences:
+  - mat
+  - fyz
+  - inf
+date:
+  start: "2019-11-09"
+  end: "2019-11-10"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - Bratislava
+organizers:
+  - trojsten
+link: https://klub.trojsten.sk/

@@ -1,0 +1,15 @@
+name: Internet Problem Solving Contest
+type: sutaz
+sciences:
+  - inf
+date:
+  start: "2019-11-01"
+  text: "november"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - internet
+organizers:
+  - trojsten
+link: https://zenit.ksp.sk/

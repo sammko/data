@@ -1,0 +1,15 @@
+name: Zimné sústredenie FKS
+type: sustredenie
+sciences:
+  - fyz
+date:
+  start: "2020-01-26"
+  end: "2020-02-02"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - TBD
+organizers:
+  - trojsten
+link: https://fks.sk/akcie/sustredenia/

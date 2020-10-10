@@ -1,0 +1,15 @@
+name: Zimné sústredenie Riešok
+type: sustredenie
+sciences:
+  - mat
+date:
+  start: "2020-01-19"
+  end: "2020-01-24"
+contestants:
+  min: zs5
+  max: zs9
+places:
+  - TBD
+organizers:
+  - riesky
+link: https://riesky.sk/

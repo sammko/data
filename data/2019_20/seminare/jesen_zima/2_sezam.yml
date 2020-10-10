@@ -1,0 +1,16 @@
+name: 2. séria Sezamu
+type: seminar
+sciences:
+  - mat
+date:
+  start: "2020-01-01"
+  end: "2020-11-04"
+  text: "október-november"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - sezam
+link: https://www.sezam.sk/sezam/

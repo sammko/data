@@ -1,0 +1,16 @@
+name: 1. séria Sezamu
+type: seminar
+sciences:
+  - mat
+date:
+  start: "2019-09-01"
+  end: "2019-09-30"
+  text: "september"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - sezam
+link: https://www.sezam.sk/sezam/

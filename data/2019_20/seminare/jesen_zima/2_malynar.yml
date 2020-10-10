@@ -1,0 +1,16 @@
+name: 2. séria Malynár
+type: seminar
+sciences:
+  - mat
+date:
+  start: "2019-11-01"
+  end: "2019-11-25"
+  text: "november"
+contestants:
+  min: zs4
+  max: zs6
+places:
+  - celé Slovensko
+organizers:
+  - strom
+link: https://malynar.strom.sk/

@@ -1,0 +1,14 @@
+name: Domáce kolo PALMA
+type: sutaz
+sciences:
+  - inf
+date:
+  start: "2019-12-03"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - internet
+organizers:
+  - strom
+link: https://palma.strom.sk/

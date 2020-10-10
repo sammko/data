@@ -1,0 +1,16 @@
+name: 3. séria Pikofyzu
+type: seminar
+sciences:
+  - fyz
+date:
+  start: "2019-11-01"
+  end: "2019-12-02"
+  text: "november-december"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - p-mat
+link: https://pikofyz.sk/

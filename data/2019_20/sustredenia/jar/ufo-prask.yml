@@ -1,0 +1,16 @@
+name: Jarné sústredenie UFO-Prask
+type: sustredenie
+sciences:
+  - fyz
+  - inf
+date:
+  start: "2020-03-15"
+  end: "2020-03-21"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - TBD
+organizers:
+  - trojsten
+link: https://ufo.fks.sk/akcie/sustredenia/

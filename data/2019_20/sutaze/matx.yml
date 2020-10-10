@@ -1,0 +1,15 @@
+name: MatX
+type: sutaz
+sciences:
+  - mat
+date:
+  start: "2020-02-01"
+  text: "február"
+contestants:
+  min: zs5
+  max: zs9
+places:
+  - online
+organizers:
+  - p-mat
+link: https://matx.p-mat.sk/

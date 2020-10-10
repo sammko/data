@@ -1,0 +1,16 @@
+name: 1. séria Prask
+type: seminar
+sciences:
+  - inf
+date:
+  start: "2019-10-01"
+  end: "2019-11-18"
+  text: "október-november"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - celé Slovensko
+organizers:
+  - trojsten
+link: https://prask.ksp.sk/

@@ -1,0 +1,16 @@
+name: Jesenné sústredenie UFO-Prasku
+type: sustredenie
+sciences:
+  - inf
+  - fyz
+date:
+  start: "2019-10-05"
+  end: "2019-10-11"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - TBD
+organizers:
+  - trojsten
+link: https://ufo.fks.sk/akcie/sustredenia/
