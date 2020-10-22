@@ -86,8 +86,8 @@
       "type": "string",
       "maxLength": 255
     },
-    "override-color": {
-      "description": "Override default color based on science and event type",
+    "color": {
+      "description": "Override default color based on first science",
       "type": "string",
       "anyOf": [
         { "enum": ["red", "orange", "yellow", "green", "blue", "purple"] },

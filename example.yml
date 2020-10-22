@@ -42,7 +42,7 @@ contestants:
 short-info: "Náboj Junior je súťaž pre štvorčlenné tímy. Celá súťaž trvá 120 minút, počas ktorých sa tímy snažia vyriešiť čo najviac úloh. V náboji nejde o bezhlavú aplikáciu už nadobudnutých vedomostí. Úlohy vyžadujú istú dávku invencie a dôvtipu."
 
 # Zmena defaultnej farby, v tomto prípade modrej na červenú (optional)
-override-color: "red"
+color: "red"
 
 # Udaje k notifikaciam. (optional)
 notifications:
