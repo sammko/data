@@ -84,7 +84,7 @@
     "short-info": {
       "description": "Short description of event",
       "type": "string",
-      "pattern": "^.{0,255}$"
+      "maxLength": 255
     },
     "notifications": {
       "description": "Notification settings",
