@@ -38,6 +38,9 @@ contestants:
   # Maximalny rocnik, ktory sa moze zapojit.
   max: zs9
 
+# Popis akcie
+short-info: "Náboj Junior je súťaž pre štvorčlenné tímy. Celá súťaž trvá 120 minút, počas ktorých sa tímy snažia vyriešiť čo najviac úloh. V náboji nejde o bezhlavú aplikáciu už nadobudnutých vedomostí. Úlohy vyžadujú istú dávku invencie a dôvtipu."
+
 # Udaje k notifikaciam. (optional)
 notifications:
   # Zoznam poctu dni, kedy sa ma posielat mail zaujemcom.
