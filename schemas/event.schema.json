@@ -86,6 +86,14 @@
       "type": "string",
       "maxLength": 255
     },
+    "color": {
+      "description": "Override default color based on first science",
+      "type": "string",
+      "anyOf": [
+        { "enum": ["red", "orange", "yellow", "green", "blue", "purple"] },
+        { "pattern": "^#([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$"}
+      ]
+    },
     "notifications": {
       "description": "Notification settings",
       "type": "object",
@@ -103,4 +111,4 @@
   },
   "required": [ "name", "sciences", "type", "date", "organizers", "places", "contestants" ]
 }
-  
+
