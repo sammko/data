@@ -1,16 +1,14 @@
-name: SEZAMKO sústredenie
-type: sustredenie
+name: SEZAMKO online stretnutie
+type: other
 sciences:
   - mat
 date:
-  start: "2020-12-03"
-  end: "2020-12-05"
+  start: "2020-12-05"
 contestants:
   min: zs5
   max: zs6
 places:
   - TBD
-volatile: true
 organizers:
   - sezam
 link: https://www.sezam.sk/sezamko/
